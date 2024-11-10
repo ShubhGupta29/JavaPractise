@@ -12,14 +12,20 @@ class ClassA{
 }
 
 class ClassB extends ClassA{
+    @Override
     public void methodA(){}
+    @Override
     public void methodB(){}
+    @Override
     public void methodC(){}
 }
 
 class ClassC extends ClassA{
+    @Override
     public void methodA() throws Exception{}
+    @Override
     public void methodB() throws RuntimeException{}
+    @Override
     public void methodC() throws NullPointerException{}
     // No need to explicitly specify exception
     // when above parent class has thrown exception

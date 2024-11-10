@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MultiThreading/pom.xml" />
+        <option value="$PROJECT_DIR$/Java9Practise/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaRandom/pom.xml" />
+        <option value="$PROJECT_DIR$/Java8practise/pom.xml" />
+        <option value="$PROJECT_DIR$/Algorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaTheoretical/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
